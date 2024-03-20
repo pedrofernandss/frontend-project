@@ -1,12 +1,12 @@
 {
-    "task": [
-        {
-            "id": "1",
-            "text": "Buy Milk With Some Orange"
-        },
-        {
-            "id": "2",
-            "text": "Study For University"
-        }
-    ]
+  "tasks": [
+    {
+      "id": "13b0cea8-8aa2-4a53-b17b-4f991738fe9f",
+      "text": "Aula de Lógica Computacional 1"
+    },
+    {
+      "id": "201c5851-84ed-4997-914d-7827c6f9a446",
+      "text": "Aula de Banco de Dados"
+    }
+  ]
 }
